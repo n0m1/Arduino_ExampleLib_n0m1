@@ -1,0 +1,8 @@
+A simple template for learning to create Arduino libraries. 
+
+Author  : Noah Shibley / NoMi Design                        
+Date    : May 17th, 2012                                    
+Version : 0.1                                              
+Notes   : An example Arduino lib. Add your own name, and modify.
+          A blog post about how to use this lib is found here:
+          http://n0m1.com/2012/04/26/writing-your-own-arduino-libraries/  
